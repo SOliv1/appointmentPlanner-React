@@ -1,5 +1,8 @@
 [![CodeQL](https://github.com/SOliv1/appointmentPlanner-React/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/SOliv1/appointmentPlanner-React/actions/workflows/codeql-analysis.yml)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/SOliv1/appointmentPlanner-React/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/SOliv1/appointmentPlanner-React/actions/workflows/jekyll-gh-pages.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0f07f825-7303-48b6-936e-9009f92d8716/deploy-status?branch=master)](https://app.netlify.com/sites/appointment-planners/deploys)
+
+View deployed site [here](https://appointment-planners.netlify.app/contacts)
  # appointmentPlanner-React
 Use functional React components to create an app that manages contacts and appointments. The app consists of two pages: one to view and add contacts and one to view and add appointments.
 
